@@ -1,5 +1,5 @@
 <script setup>
-import { GmailIcon, TelegramIcon, BloggerIcon, XIcon, MastodonIcon, GitHubIcon } from 'vue3-simple-icons'
+import { BloggerIcon, GitHubIcon, GmailIcon, MastodonIcon, TelegramIcon, XIcon } from 'vue3-simple-icons'
 
 const email = ref(null)
 onMounted(() => {
@@ -61,7 +61,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://x.com/ccbikai"
+          href="https://x.com/xkaibi"
           target="_blank"
           title="Twitter"
           class="text-gray-400 hover:text-gray-500"
