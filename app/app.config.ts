@@ -1,5 +1,6 @@
 export default defineAppConfig({
   title: 'go.hyunwoo.org',
+  documentation: 'https://docs.sink.cool',
   github: 'https://github.com/hyunwooed',
   coffee: '',
   twitter: '',
